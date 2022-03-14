@@ -1,10 +1,10 @@
 # Volume of a prism
 
-# def vol(length=10, width=8, height=15):
-#     return length * width * height
-#
-#
-# print("The volume of the rectangular prism is " + str(vol()) + " cubic feet.")
+def vol(length=10, width=8, height=15):
+    return length * width * height
+
+
+print("The volume of the rectangular prism is " + str(vol()) + " cubic feet.")
 
 
 
